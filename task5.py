@@ -1,8 +1,7 @@
 '''
-    UBA XXI - Pensamiento Computacional TP 3 - Ivan Andrade
+    Ivan Andrade - 18/04 / 2023
     -------------------------------------------------------
-
-    Ejercicio 5.
+    
          Juego de Piedra, papel o tigera. Vos vs
          la maquina.
 '''
